@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=89DAFF&height=200&text=ChoiJieun)
 
-<div style="text-align:center;">
+<div align= "center">
 <h1>🛠️ Tech Stacks</h1>
 <img src="https://img.shields.io/badge/JAVA-EEABA4?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
