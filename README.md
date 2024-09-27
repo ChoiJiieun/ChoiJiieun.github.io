@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=89DAFF&height=200&text=ChoiJieun)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=89DAFF&height=200&text=ChoiJieun"/>
+</p>
 
 <div align= "center">
 <h1>🛠️ Tech Stacks</h1>
